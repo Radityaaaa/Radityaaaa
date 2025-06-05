@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m Raditya
-- 🔭 I’m currently working on Apple.inc
+- 🔭 I’m currently a student of Help University
 - 🌱 I’m currently learning Flutter
 - 👀 I’m interested in AI Development
 - 📫 How to reach me instagram : @ranvm_ & email : agusraditya13@gmail.com
